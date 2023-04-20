@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anchy.Dev.Web", "Anchy.Dev.Web\Anchy.Dev.Web.csproj", "{AB7E495F-C2B3-4E1E-BEDA-842507B98E7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB7E495F-C2B3-4E1E-BEDA-842507B98E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7E495F-C2B3-4E1E-BEDA-842507B98E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7E495F-C2B3-4E1E-BEDA-842507B98E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7E495F-C2B3-4E1E-BEDA-842507B98E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEEBFCB9-74D3-4F1E-ACF6-781469B8FC10}
+	EndGlobalSection
+EndGlobal
